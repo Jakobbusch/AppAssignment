@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="tab_text_1">Weather</string>
+    <string name="tab_text_2">Saved</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+</resources>
